@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "duration": 12,
+  "entries": [
+    {
+      "settings": {
+        "scene": "static",
+        "color": "red",
+        "delay": 0
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.10146732464449398,
+          "late_rmse": 0.003124999424620715,
+          "near_seconds": 10.99999999999981,
+          "seen_fraction": 1
+        },
+        {
+          "kind": "component",
+          "rmse": 0.10146732464449398,
+          "late_rmse": 0.003124999424620715,
+          "near_seconds": 10.99999999999981,
+          "seen_fraction": 1
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "static",
+        "color": "red",
+        "delay": 0.5
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.1537879902283259,
+          "late_rmse": 0.0031250028463447746,
+          "near_seconds": 10.49999999999982,
+          "seen_fraction": 0.9583333333333334
+        },
+        {
+          "kind": "component",
+          "rmse": 0.1537879902283259,
+          "late_rmse": 0.0031250028463447746,
+          "near_seconds": 10.49999999999982,
+          "seen_fraction": 0.9583333333333334
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "distractor",
+        "color": "red",
+        "delay": 0
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.4809923962927033,
+          "late_rmse": 0.48674611486302044,
+          "near_seconds": 0,
+          "seen_fraction": 1
+        },
+        {
+          "kind": "component",
+          "rmse": 0.10146732464449398,
+          "late_rmse": 0.003124999424620715,
+          "near_seconds": 10.99999999999981,
+          "seen_fraction": 1
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "distractor",
+        "color": "red",
+        "delay": 0.5
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.4846003294850078,
+          "late_rmse": 0.48674611136287604,
+          "near_seconds": 0,
+          "seen_fraction": 0.9583333333333334
+        },
+        {
+          "kind": "component",
+          "rmse": 0.1537879902283259,
+          "late_rmse": 0.0031250028463447746,
+          "near_seconds": 10.49999999999982,
+          "seen_fraction": 0.9583333333333334
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "moving",
+        "color": "red",
+        "delay": 0
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.164115078954697,
+          "late_rmse": 0.13441001930611732,
+          "near_seconds": 1.270000000000001,
+          "seen_fraction": 1
+        },
+        {
+          "kind": "component",
+          "rmse": 0.164115078954697,
+          "late_rmse": 0.13441001930611732,
+          "near_seconds": 1.270000000000001,
+          "seen_fraction": 1
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "moving",
+        "color": "red",
+        "delay": 0.5
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.27274483807875494,
+          "late_rmse": 0.2303143683288472,
+          "near_seconds": 0.5800000000000003,
+          "seen_fraction": 0.9583333333333334
+        },
+        {
+          "kind": "component",
+          "rmse": 0.27274483807875494,
+          "late_rmse": 0.2303143683288472,
+          "near_seconds": 0.5800000000000003,
+          "seen_fraction": 0.9583333333333334
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "occlusion",
+        "color": "red",
+        "delay": 0
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.10147183145914168,
+          "late_rmse": 0.003124391200493931,
+          "near_seconds": 10.99999999999981,
+          "seen_fraction": 0.6666666666666666
+        },
+        {
+          "kind": "component",
+          "rmse": 0.10147183145914168,
+          "late_rmse": 0.003124391200493931,
+          "near_seconds": 10.99999999999981,
+          "seen_fraction": 0.6666666666666666
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "occlusion",
+        "color": "red",
+        "delay": 0.5
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.15379096380181445,
+          "late_rmse": 0.003139633782896574,
+          "near_seconds": 10.49999999999982,
+          "seen_fraction": 0.625
+        },
+        {
+          "kind": "component",
+          "rmse": 0.15379096380181445,
+          "late_rmse": 0.003139633782896574,
+          "near_seconds": 10.49999999999982,
+          "seen_fraction": 0.625
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "missing",
+        "color": "red",
+        "delay": 0
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.5661561947518966,
+          "late_rmse": 0.5661561947518986,
+          "near_seconds": 0,
+          "seen_fraction": 0
+        },
+        {
+          "kind": "component",
+          "rmse": 0.5661561947518966,
+          "late_rmse": 0.5661561947518986,
+          "near_seconds": 0,
+          "seen_fraction": 0
+        }
+      ]
+    },
+    {
+      "settings": {
+        "scene": "missing",
+        "color": "red",
+        "delay": 0.5
+      },
+      "dt": 0.01,
+      "metrics": [
+        {
+          "kind": "centroid",
+          "rmse": 0.5661561947518966,
+          "late_rmse": 0.5661561947518986,
+          "near_seconds": 0,
+          "seen_fraction": 0
+        },
+        {
+          "kind": "component",
+          "rmse": 0.5661561947518966,
+          "late_rmse": 0.5661561947518986,
+          "near_seconds": 0,
+          "seen_fraction": 0
+        }
+      ]
+    }
+  ]
+}
